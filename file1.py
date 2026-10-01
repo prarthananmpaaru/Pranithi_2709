@@ -1,2 +1,3 @@
-paaru
-mangalore
+print("hello world");
+print("good morning");
+
